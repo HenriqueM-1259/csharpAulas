@@ -1,0 +1,15 @@
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\bin\Debug\net6.0\csharpAulas.exe
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\bin\Debug\net6.0\csharpAulas.deps.json
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\bin\Debug\net6.0\csharpAulas.runtimeconfig.json
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\bin\Debug\net6.0\csharpAulas.dll
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\bin\Debug\net6.0\csharpAulas.pdb
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\csharpAulas.csproj.AssemblyReference.cache
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\csharpAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\csharpAulas.AssemblyInfoInputs.cache
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\csharpAulas.AssemblyInfo.cs
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\csharpAulas.csproj.CoreCompileInputs.cache
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\csharpAulas.dll
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\refint\csharpAulas.dll
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\csharpAulas.pdb
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\csharpAulas.genruntimeconfig.cache
+C:\Users\Mhsf1\OneDrive\Área de Trabalho\csharpAulas\obj\Debug\net6.0\ref\csharpAulas.dll
